@@ -22,8 +22,6 @@ h6{
 .items {
     display: flex;
     justify-content: space-evenly;
-    
-}
-.card{
+    margin: 2rem;
     
 }
